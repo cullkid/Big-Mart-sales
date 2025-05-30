@@ -16,3 +16,5 @@ Sales by store Location Type: Measures sales performance across different locati
 Item Visibility vs. Sales Correlation: Evaluates whether higher item visibility leads to higher sales.
 Sales by store Size: Understands how store size (Small, Medium, High) influences sales figures.
 Uploadling data from csv file
+
+Project link: ('https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3740622200801238/74165364660605/3957496895545464/latest.html') 
